@@ -12,6 +12,7 @@ var controladorDeCartao = (function(){
 		}
 	}
 
+
 	module.adicionaCartao = function(conteudo, cor){
 		contador++;
 		//botao remove
